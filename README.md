@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Meriem EL mecaniqui</h1>
 <h3 align="center">"A passionate full-stack developer from Maroc</h3>
 
-<h3 align="left">Connect with me:melmecaniqui@gmail.com</h3>
+<h3 align="left">How to reach me:melmecaniqui@gmail.com</h3>
 <p align="left">
 </p>
 
