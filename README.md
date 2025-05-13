@@ -15,4 +15,4 @@ function sayHello($dev) {
 
 sayHello($meriemDev);
 
-?>
+
