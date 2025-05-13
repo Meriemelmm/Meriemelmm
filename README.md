@@ -10,18 +10,6 @@ Feel free to explore my projects and don't hesitate to reach out if you have any
 - Databases: MySQL, MongoDB
 - Tools: Git,Jira,Figma
 
-
-
-## Contact
-
-Feel free to get in touch with me via:
-
-### 📧 Email:
-[Send an email](melmecaniqui@gmail.com)
-
-### 🔗 LinkedIn:
-[Connect on LinkedIn]([https://www.linkedin.com/in/meriem-el-mecaniqui](https://www.linkedin.com/in/meriem-el-mecaniqui/](https://www.linkedin.com/in/meriem-el-mecaniqui/)))
-
 ---
 
 ## PHP Example
