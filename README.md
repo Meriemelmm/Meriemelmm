@@ -1,4 +1,4 @@
-<const merylowersDev = {
+const merylowersDev = {
     fullName: "Meriem E.",
     profession: "Full Stack Web Developer",
     experience: "Junior",
