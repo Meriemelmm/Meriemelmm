@@ -4,15 +4,18 @@ Hi, I'm **Meriem El mecaniqui**, a passionate **Full Stack Web Developer** from 
 
 Feel free to explore my projects and don't hesitate to reach out if you have any questions or suggestions!
 
-## Technologies I work with:
-- Front-End: HTML, CSS, JavaScript
-- Back-End: PHP, Laravel
-- Databases: MySQL
-- Tools: Git,Jira,Figma
+![https://www.pinterest.com/pin/3166662232696181/)  <!-- Replace with an actual photo -->
+
+## 🌱 Technologies I work with:
+
+- **Front-End:** HTML, CSS, JavaScript
+- **Back-End:** PHP, Laravel
+- **Databases:** MySQL
+- **Tools:** Git, Jira, Figma
 
 ---
 
-## PHP Example
+## 🔧 PHP Example
 
 Here's an example of how you can use PHP to display your information:
 
@@ -25,7 +28,7 @@ $meriemDev = [
     "experience" => "junior",
     "location" => "Nador, Morocco",
     "email" => "your-email@example.com",
-    "linkedin" => "[https://www.linkedin.com/in/meriem-el-mecaniqui]"
+    "linkedin" => "https://www.linkedin.com/in/meriem-el-mecaniqui/"
 ];
 
 function sayHello($dev) {
