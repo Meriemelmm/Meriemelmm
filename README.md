@@ -1,3 +1,4 @@
+```php
 <?php
 
 $meriemDev = [
@@ -15,4 +16,4 @@ function sayHello($dev) {
 
 sayHello($meriemDev);
 
-
+?>
