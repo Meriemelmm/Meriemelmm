@@ -6,8 +6,8 @@ Feel free to explore my projects and don't hesitate to reach out if you have any
 
 ## Technologies I work with:
 - Front-End: HTML, CSS, JavaScript
-- Back-End: PHP, Laravel, Node.js
-- Databases: MySQL, MongoDB
+- Back-End: PHP, Laravel
+- Databases: MySQL
 - Tools: Git,Jira,Figma
 
 ---
