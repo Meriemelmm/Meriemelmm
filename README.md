@@ -4,7 +4,6 @@ Hi, I'm **Meriem El mecaniqui**, a passionate **Full Stack Web Developer** from 
 
 Feel free to explore my projects and don't hesitate to reach out if you have any questions or suggestions!
 
-![https://www.pinterest.com/pin/3166662232696181/)  <!-- Replace with an actual photo -->
 
 ## 🌱 Technologies I work with:
 
@@ -27,7 +26,7 @@ $meriemDev = [
     "profession" => "Full Stack Web Developer",
     "experience" => "junior",
     "location" => "Nador, Morocco",
-    "email" => "your-email@example.com",
+    "email" => "melmecaniqui@example.com",
     "linkedin" => "https://www.linkedin.com/in/meriem-el-mecaniqui/"
 ];
 
