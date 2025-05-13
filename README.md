@@ -8,39 +8,19 @@ Feel free to explore my projects and don't hesitate to reach out if you have any
 - Front-End: HTML, CSS, JavaScript
 - Back-End: PHP, Laravel, Node.js
 - Databases: MySQL, MongoDB
-- Tools: Git, Docker, AWS
+- Tools: Git,Jira,Figma
 
-## Projects
 
-### 1. **Merylowers** 🌸
-An e-commerce platform for buying and selling flowers with a modern, user-friendly design. Features include:
-- Product listing with search and filters
-- Secure user registration and login
-- Shopping cart and order management
-
-Technologies: **PHP**, **Laravel**, **Tailwind CSS**, **MySQL**
-
-[View Project](https://github.com/yourusername/merylowers)
-
-### 2. **YouQuote** 📜
-An API for managing quotes, allowing users to create, share, and like quotes. Features include:
-- User authentication and roles
-- Quotes categorization and tagging
-- Likes and favorites system
-
-Technologies: **Laravel**, **MySQL**, **JWT Authentication**
-
-[View Project](https://github.com/yourusername/youquote)
 
 ## Contact
 
 Feel free to get in touch with me via:
 
 ### 📧 Email:
-[Send an email](mailto:your-email@example.com)
+[Send an email](melmecaniqui@gmail.com)
 
 ### 🔗 LinkedIn:
-[Connect on LinkedIn](https://www.linkedin.com/in/meriem-el-mecaniqui)
+[Connect on LinkedIn]([https://www.linkedin.com/in/meriem-el-mecaniqui](https://www.linkedin.com/in/meriem-el-mecaniqui/](https://www.linkedin.com/in/meriem-el-mecaniqui/)))
 
 ---
 
@@ -57,7 +37,7 @@ $meriemDev = [
     "experience" => "junior",
     "location" => "Nador, Morocco",
     "email" => "your-email@example.com",
-    "linkedin" => "https://www.linkedin.com/in/meriem-el-mecaniqui"
+    "linkedin" => "[https://www.linkedin.com/in/meriem-el-mecaniqui]"
 ];
 
 function sayHello($dev) {
