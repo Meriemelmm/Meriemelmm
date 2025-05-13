@@ -14,9 +14,9 @@ Feel free to explore my projects and don't hesitate to reach out if you have any
 
 ---
 
-## 🔧 PHP Example
 
-Here's an example of how you can use PHP to display your information:
+
+
 
 ```php
 <?php
