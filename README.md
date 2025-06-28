@@ -1,5 +1,6 @@
 # Welcome to my GitHub! 👋
-![image](https://github.com/user-attachments/assets/3acb6f50-38c6-45d8-a020-3fbbb3c78f3d)
+![Uploading image.png…]()
+
 
 Hi, I'm **Meriem El mecaniqui**, a passionate **Full Stack Web Developer** from **Nador, Morocco**. I specialize in building beautiful, functional, and responsive websites. I'm constantly learning and improving my skills.
 
