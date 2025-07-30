@@ -28,7 +28,7 @@ $meriemDev = [
     "profession" => "Full Stack Web Developer",
     "experience" => "junior",
     "location" => "Nador, Morocco",
-    "email" => "melmecaniqui@example.com",
+    "email" => "melmecaniqui@gmail.com",
     "linkedin" => "https://www.linkedin.com/in/meriem-el-mecaniqui/"
 ];
 
