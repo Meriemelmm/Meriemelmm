@@ -9,10 +9,10 @@ Feel free to explore my projects and don't hesitate to reach out if you have any
 
 ## 🌱 Technologies I work with:
 
-- **Front-End:** HTML, CSS, JavaScript,React,Next.js
-- **Back-End:** PHP, Laravel,Express.js,Nest.js
-- **Databases:** MySQL,MongoDB
-- **Tools:** Git, Jira, Figma
+- **Front-End:** HTML, CSS, JavaScript, React, React Native, Next.js
+- **Back-End:** PHP, Laravel, Express.js, Nest.js
+- **Databases:** MySQL, MongoDB
+- **Tools:**Git, Jira, Postman, Docker
 
 ---
 
